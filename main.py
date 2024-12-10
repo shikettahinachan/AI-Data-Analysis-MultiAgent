@@ -65,8 +65,8 @@ def main():
     
     # Example usage
     user_input = '''
-    datapath:OnlineSalesData.csv
-    Use machine learning to perform data analysis and write complete graphical reports
+    datapath:20241013-db-queried-api.csv
+    Perform data analysis and write complete graphical reports
     '''
     system.run(user_input)
 
